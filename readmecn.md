@@ -22,6 +22,9 @@ touch /tmp/keepalive
 
 致谢
 tmate.io
+
 马克斯·施密特（Max Schmitt）的动作伴侣
+
 执照
+
 该项目中的操作以及相关的脚本和文档是根据MIT许可证发布的。
